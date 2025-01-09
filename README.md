@@ -6,6 +6,8 @@ A sophisticated bridge for connecting PlayStation 5 controllers to PC games via 
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2011-lightgrey.svg)
 
+![YHIONas4ARzL8UqSFbqbI](https://github.com/user-attachments/assets/b42ec624-dcda-4a04-b695-7a581398c288)
+
 ## Overview
 
 PS5-PC Bridge enables seamless integration between PlayStation 5 controllers and PC games through USB-C connectivity. The project leverages advanced memory analysis and pattern recognition to provide enhanced gaming experiences. Currently supporting GTA V with more games planned for future releases.
@@ -32,6 +34,8 @@ PS5-PC Bridge enables seamless integration between PlayStation 5 controllers and
   - Automatic game state synchronization
 
 ## Requirements
+
+![USB-C](https://github.com/user-attachments/assets/85e702d4-0382-4f1e-ae28-d951dcbbc32b)
 
 ### Hardware
 - PlayStation 5 DualSense Controller
